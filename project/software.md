@@ -1,5 +1,3 @@
-# Software & Setup #
-
 1. Copy the following code into a new Arduino sketch:
     <%= breadboard_piano.ino =%>
 2. Create a new tab: Click the little triangle just under the Serial Monitor button on the right side of the window and select __New Tab__.
